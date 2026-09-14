@@ -6,7 +6,8 @@
      <title> Mi Primera Pagina  </title>
 </head>
 <body>
+<header>
      <h1>  Prime </h1>
-    <p> Estoy aprendiendo HTML</p>
+    
 </body> Stay actived Stay Connected
-</html>
+</header>
