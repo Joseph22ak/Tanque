@@ -1,1 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"
+
+    <title>Mi aplicacion</title>
+<head >
+
+     <body>
+          <link rel="Stylesheet" href="Style.css">
+     </head> 
+     <body>
+          
+          <header> 
+               <h1>Mi App Web</h1>
+               <P>Aprediendo a crear app desde cero </P>
+          </header>
+          <nav> 
+               <a href="#inicio">Inicio</a>
+               <a href="#Proyecto">Mi Proyecto</a>
+               <a href="#Contacto">Contacto</a>
+          </nav>
+          <main>
+               <Section id="inicio" Class="Principal"
+               <h2> Bienvenidos</h2>
+               <p> 
+                    Esta app fue creada utilizando Html y Css 
+               </p>
+               <button> Conercer mas </button>
+          </section>
+          <section> id=" Proyecto" class="tarjetas">
+               <h2> Que ofrecemos? </h2>
+               <div class = " tarjeta ">
+                    <h3>Inovacion</h3>
+                    <p> 
+                         Creamos soluciones  utilizando tecnoogia
+
+                    </p>
+               </div>
+               <div Class="Trajeta">
+                    <h3> Creatividad</h3>
+                    <p>
+                         Transformamos ideas en Proyecto .
+                    </p>
+               </div>
+               <div class="Tarjeta "
+               <h3> Tecbologia</h3>
+               <p> 
+                    Utilizamos Heramientas Digitales.
+               </p>
+          </div>
+          </section>
+          </main>
+          <Footer> id="Contacto">
+              <p> 2026 Mi App</p>
+          </Footer>
+     </body>
+     </html
