@@ -1,0 +1,90 @@
+/*Configuracion Gneral*/
+
+body{
+   margin: 0;
+   font-family: Arial, sans-serif;
+   background-color: #f4f4f4;
+   color: #333333; 
+}
+
+/*Encabezado*/
+header{
+   background-color: #005191;
+   color: rgb(255, 255, 255);
+   padding: 30px;
+   text-align: center;
+}
+
+header h1{
+   margin-bottom: 10px;
+   font-size: 36px;
+}
+
+header p{
+   font-size: 18px;
+}
+/*Menu*/
+nav{
+   background-color: #003b6f;
+   text-align: center;
+   padding: 15px;
+}
+
+nav a{
+   color:white;
+   text-decoration: none;
+   margin-right: 15px;
+}
+/*Contenido Principal*/
+main{
+    padding: 30px;
+}
+
+/*Seccion Principal*/
+.Principal{
+    Background-color: white;
+    text-align: center;
+    padding: 40px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.principal h2{
+    font-size: 30px;
+}
+
+/*Boton*/
+button{
+    background-color: #96c11f;
+    color:white;
+    border:none;
+    padding: 12px 25px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+/*Seccion de tarjetas*/
+
+Tarjetas{
+    text-align: center;
+}
+
+
+.tarjeta{
+display: inline-block;
+width:25%;
+margin: 10px;
+padding: 20px;
+background-color: #005191;
+border-radius: 10px;
+}
+
+
+/*Pie de pagina*/
+footer{
+    background-color: #003b6f;
+    color:white;
+    text-align: center;
+    padding: 20px;
+}
+ 
